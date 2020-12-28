@@ -98,7 +98,9 @@ Here's a blank template to get started:
 * []()
 * []()
 
-
+## Temp links:
+openAI baseline
+https://github.com/openai/baselines
 
 <!-- GETTING STARTED -->
 ## Getting Started
