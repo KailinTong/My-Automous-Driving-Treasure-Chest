@@ -102,6 +102,9 @@ Here's a blank template to get started:
 openAI baseline
 https://github.com/openai/baselines
 
+Grokking Deep Reinforcement Learning
+https://github.com/mimoralea/gdrl#3-balancing-immediate-and-long-term-goals
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
